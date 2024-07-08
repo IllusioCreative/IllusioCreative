@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IllusioCreative
 - 👀 I’m interested in ... Work with Projecets
-- 🌱 I’m currently learning ... Html5
 - 💞️ I’m looking to collaborate on ... Webprojects
 - 📫 How to reach me ... Illusiodesigns@gmail.com
 
